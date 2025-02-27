@@ -142,7 +142,7 @@ const BillPayment = () => {
 
       {/* Bill Payment Form */}
       <div className="header-section">
-        <h1>Book Your Service Online</h1>
+        <h1>Book Your Service</h1>
         <p>
           Schedule your visit and submit your service details ahead for a faster
           and more convenient process.
