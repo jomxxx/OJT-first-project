@@ -104,7 +104,9 @@ const BillPayment = () => {
       {!providerConfirmed && (
         <div className="modal-overlay">
           <div className="modal-content">
-            <h2>Select Your Water Provider</h2>
+            <h2 style={{ color: "#0057b8", fontSize: "19px" }}>
+              Select Your Water Provider
+            </h2>
             <select
               className="provider-dropdown"
               value={selectedProvider}
