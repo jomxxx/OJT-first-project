@@ -13,7 +13,7 @@ const Homepage = () => {
     <div className="homepage-container">
       {/* Header Section */}
       <div className="header-section">
-        <h1>Book Your Service Online</h1>
+        <h1>Book Your Service Online Paul</h1>
         <p>
           Schedule your visit and submit your service details ahead for a faster
           and more convenient process.
