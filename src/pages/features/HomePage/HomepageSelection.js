@@ -2,7 +2,6 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 import "./HomepageSelection.css";
 
-
 const HomepageSelection = () => {
   const navigate = useNavigate();
 
